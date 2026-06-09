@@ -87,13 +87,3 @@ solar-system/
 ├── package.json          # Node package definition
 └── README.md             # This documentation file
 ```
-
----
-
-## 👥 The Team: JAAS'zzz code
-
-* **R L Jayesh** — 3D Animator (designed and modeled solar system entities)
-* **Ayesha** — Web page maintenance & interactive model features
-* **Sanjana B Kulkarni** — Integration Developer (stitched animations and interactive modules together)
-* **Amogh A Kashyap** — Orbit & Scale Engineer (implemented spatial calculations and orbital motions)
-* **Shravya** — Lead Researcher & Scientific Content Writer
