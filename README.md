@@ -85,5 +85,5 @@ solar-system/
 ├── game2.css             # Space Shuffler puzzle styles
 ├── resource.html         # Project credits & learning resources
 ├── package.json          # Node package definition
-└── README.md             # This documentation file
+└── README.md             # This file
 ```
